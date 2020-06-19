@@ -11,6 +11,6 @@
 | graphic |  5700XT sapphire |
 | network |  Intel 3168 & I219-V |
 
-# change BIOS setting 
+- change BIOS setting :
 - close Fast Boot、CFG Lock、VT-d、CSM
 - enable Above 4G decoding、EHCI/XHCI Hand-off
